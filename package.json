@@ -1,0 +1,24 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinmccrystal/nodeintro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evinmccrystal/nodeintro/issues"
+  },
+  "homepage": "https://github.com/evinmccrystal/nodeintro#readme"
+}
